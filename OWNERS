@@ -2,4 +2,5 @@
 @andrey-git-catch-all
 @andrey-git
 @andrey-git-md *.md
-@andrey-git-dir dir/*
+@andrey-git-dir1 dir/*
+@andrey-git-dir2 *file.txt
