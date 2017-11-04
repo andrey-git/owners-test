@@ -4,3 +4,4 @@
 @andrey-git-md *.md
 @andrey-git-dir1 dir/*
 @andrey-git-dir2 *file.txt
+@andrey-git-txt *.txt
